@@ -12,3 +12,7 @@ print(cars)
 
 y = cars.pop()
 print(y)
+
+print('*#'*20)
+cars.sort()
+print(cars)
