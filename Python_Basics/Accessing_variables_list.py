@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 cars = ['Honda','Bmw','Audi']
+length=len(cars)
 
 print(cars)
 
@@ -16,3 +17,5 @@ print(y)
 print('*#'*20)
 cars.sort()
 print(cars)
+length=len(cars)
+print(length)
